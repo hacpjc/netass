@@ -1,0 +1,3 @@
+[submodule "import/kconfig-frontends"]
+	path = import/kconfig-frontends
+	url = git@github.com:hacpjc/kconfig-frontends.git
